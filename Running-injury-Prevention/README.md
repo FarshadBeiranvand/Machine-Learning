@@ -28,8 +28,6 @@ The project provides valuable insights into the potential of machine learning fo
 
 ## Kaggle Profile
 
-Find more projects and datasets on my Kaggle profile: [Farshad Beiranvand](https://www.kaggle.com/farshadbeiranvand)
+Find more projects and datasets on my **Kaggle profile**: [FarshadBeiranvand](https://www.kaggle.com/farshadbeiranvand)
 
----
 
-For more details, please refer to the notebook itself.
