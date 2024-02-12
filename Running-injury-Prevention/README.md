@@ -8,7 +8,7 @@ Running is one of the most popular sports globally, but injuries are common amon
 
 ## Data Loading and Exploration
 
-The dataset is loaded directly from [Kaggle](https://www.kaggle.com/datasets/shashwatwork/injury-prediction-for-competitive-runners) and explored to understand its structure and contents.
+The [**dataset**](https://www.kaggle.com/datasets/shashwatwork/injury-prediction-for-competitive-runners) is loaded directly from **Kaggle** and explored to understand its structure and contents.
 
 ## Data Preprocessing
 
