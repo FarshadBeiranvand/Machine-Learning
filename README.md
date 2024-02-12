@@ -6,7 +6,7 @@ Running is one of the most popular sports in the world, with millions of partici
 
 ## Dataset
 
-The dataset used in this project is available on Kaggle and can be accessed [here](https://www.kaggle.com/farshadbeiranvand/injury-prediction-for-competitive-runners). It contains various features related to runners' training sessions, exertion levels, recovery metrics, and injury status.
+The dataset used in this project is available on Kaggle and can be accessed [here](https://www.kaggle.com/farshadbeiranvand). It contains various features related to runners' training sessions, exertion levels, recovery metrics, and injury status.
 
 ## How to Use
 
