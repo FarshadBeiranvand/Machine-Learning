@@ -21,3 +21,5 @@ The dataset used in this project is available on Kaggle and can be accessed [her
 ## Conclusion
 
 In this project, we embarked on an exploration of machine learning's potential to predict running injuries using biomechanical data. Through comprehensive data preprocessing, visualization, and model training, we gained valuable insights into the patterns and trends associated with running injuries. While our K-Nearest Neighbors (KNN) classifier exhibited high accuracy in identifying non-injury cases, its performance in detecting injuries was limited, suggesting areas for further improvement. Future endeavors could involve delving deeper into feature engineering, addressing class imbalance, and exploring alternative models or ensemble methods. By continuing to refine our approaches and collaborating with domain experts, we aim to develop more robust predictive models that can aid in injury prevention and enhance the overall well-being of athletes.
+
+##Find more about me and my projects on [ my Kaggle](https://www.kaggle.com/farshadbeiranvand).
