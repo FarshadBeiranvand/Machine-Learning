@@ -25,6 +25,7 @@ The data is split into features and target variables, and a K-Nearest Neighbors 
 ## Conclusion
 
 The project provides valuable insights into the potential of machine learning for predicting running injuries. While the K-Nearest Neighbors classifier shows promising results, there are areas for further improvement, such as feature engineering and exploring alternative models.
+**The project will be regularly updated to incorporate better methods, improve model performance, and explore alternative machine learning algorithms**
 
 ## Kaggle Profile
 
