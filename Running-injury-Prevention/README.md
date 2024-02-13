@@ -1,8 +1,9 @@
 # Running Injury Prediction Project
 
 This notebook explores the use of machine learning algorithms to predict running injuries using biomechanical data. It includes data loading, preprocessing, visualization, model training, and evaluation.
-<span style="color: blue;">**The project will be regularly updated to incorporate better methods, improve model performance, and explore alternative machine learning algorithms**</span>
-<span style="color: blue;">**The project will be regularly updated to incorporate better methods, improve model performance, and explore alternative machine learning algorithms**</span>
+
+**_The project will be regularly updated to incorporate better methods, improve model performance, and explore alternative machine learning algorithms_**
+
 
 ## Introduction
 
