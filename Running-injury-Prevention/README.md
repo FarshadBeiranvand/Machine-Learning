@@ -12,10 +12,6 @@ Running is one of the most popular sports globally, but injuries are common amon
 
 The dataset is loaded directly from [Kaggle](https://www.kaggle.com/datasets/shashwatwork/injury-prediction-for-competitive-runners) and explored to understand its structure and contents.
 
-## Data Visualization
-
-Individual athlete data is visualized to gain insights into patterns and trends. *(You can include your visualization code and resulting visualizations here)*
-
 ## Model Training and Evaluation
 
 The data is split into features and target variables, and a Random Forest classifier is trained and evaluated.
